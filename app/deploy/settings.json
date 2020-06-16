@@ -1,0 +1,12 @@
+{
+  "public": {},
+  "private": {},
+  "meteor-google-cloud": {
+    "project": "radgrad2test",
+    "stop-previous-version": "",
+    "env_variables": {
+      "MONGO_URL": "mongodb://user:pw@bla.com",
+      "ROOT_URL": "https://example.de"
+    }
+  }
+}
