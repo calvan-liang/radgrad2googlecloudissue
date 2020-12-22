@@ -108,7 +108,7 @@
     "mime-types": "^2.1.27",
     "mocha": "^7.1.2",
     "morgan": "^1.10.0",
-    "node-notifier": "^7.0.0",
+    "node-notifier": "^8.0.1",
     "puppeteer": "^3.0.4",
     "selenium-webdriver": "^4.0.0-alpha.7",
     "testcafe": "^1.8.4",
